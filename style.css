@@ -1,0 +1,43 @@
+html{
+    /* background-color: rgb(109, 192, 255); */
+    background-image: url("assets/background-books.jpg");
+    font-family: Arial, Helvetica, sans-serif;
+    height: 100%;
+}
+
+i{
+    margin: 0 10px;
+}
+
+
+.login-button{
+    margin-left: 20px;
+    margin-bottom: 4em;
+}
+
+.login-element{
+    margin-bottom: 1.5em;
+}
+
+.login-section{
+    text-align: center;
+    background-color: white;
+    border: 1px solid rgb(29, 125, 198);
+    margin: 2em 28em 10em 28em;
+}
+
+.login-top-section{
+
+}
+
+.login-logo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 4em;
+    background-color: rgba(255, 255, 255, 0.2);
+    border-radius: 10px;
+}
+
+
+
